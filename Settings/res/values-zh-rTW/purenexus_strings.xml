@@ -43,14 +43,14 @@
   <string name="reboot_soft_button_label">軟重啟</string>
   <!-- Android debugging over WiFi -->
   <string name="adb_over_network">網路 ADB</string>
-  <string name="adb_over_network_summary">啟用 TCP/IP 偵錯網路介面（Wi\u2011Fi、USB 網路）。本設定在重新啟動後會重設。</string>
+  <string name="adb_over_network_summary">啟用 TCP/IP 網路偵錯介面 (Wi\u2011Fi、USB 網路)。本設定在重新啟動後會重設。</string>
   <!-- Warning for Adb over Network -->
-  <string name="adb_over_network_warning">警告：啟用網路 ADB 後，您的手機會開放置所有已連接的網路，並有可能遭到入侵！\n\n建議您只有在手機連線至您所信任的網路時啟用此功能。\n\n您是否真的想要啟用此功能？</string>
+  <string name="adb_over_network_warning">警告：啟用網路 ADB 後，您的手機會開放至所有已連接的網路，並有可能遭到入侵！\n\n建議您只有在手機連線至您所信任的網路時啟用此功能。\n\n您是否真的想要啟用此功能？</string>
   <string name="adb_over_network_info">adb 連線 \"</string>
   <!-- Home settings -->
   <string name="system_reset_default_home">重設預設主畫面</string>
   <string name="system_home_settings">主畫面設定</string>
   <string name="reset_launcher_title">重設預設主畫面</string>
-  <string name="reset_launcher_description">重設主畫面後，您將能夠選擇另一個主畫面（例如：Trebuchet）。\n\n您確定要重設主畫面？</string>
-  <string name="reset_launcher_tip">按下首頁按鈕以開啟主畫面選擇對話框。</string>
+  <string name="reset_launcher_description">重設主畫面後，您將能夠選擇另一個主畫面 (例如：Trebuchet)。\n\n您確定要重設主畫面？</string>
+  <string name="reset_launcher_tip">按下主畫面按鈕以開啟主畫面選擇對話框。</string>
 </resources>
